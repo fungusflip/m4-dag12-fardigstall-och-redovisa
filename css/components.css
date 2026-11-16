@@ -8,6 +8,13 @@ footer a {
   color: #ffffff;
 }
 
+/* Hover på mörk bakgrund: behåll vit text (annars blir den mörkröd och svårläst) */
+nav a:hover,
+footer a:hover {
+  color: #ffffff;
+  text-decoration-thickness: 3px;
+}
+
 .knapp {
   display: inline-block;
   background-color: var(--color-primary);
