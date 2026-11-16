@@ -5,7 +5,7 @@
 - [x] En `<h1>` per sida, ingen hoppande rubrikhierarki
 - [x] Alla bilder har alt-text
 - [x] Formulär med korrekt kopplade etiketter
-- [ ] Koden validerar utan fel
+- [x] Koden validerar utan fel
 
 ## CSS
 - [x] Layouten byggd med Flexbox och/eller Grid
