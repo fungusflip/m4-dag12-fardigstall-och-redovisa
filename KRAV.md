@@ -1,27 +1,27 @@
 # Krav på den färdiga sidan
 
 ## HTML
-- [ ] Semantisk markup (header, nav, main, section/article, footer)
-- [ ] En `<h1>` per sida, ingen hoppande rubrikhierarki
-- [ ] Alla bilder har alt-text
-- [ ] Formulär med korrekt kopplade etiketter
+- [x] Semantisk markup (header, nav, main, section/article, footer)
+- [x] En `<h1>` per sida, ingen hoppande rubrikhierarki
+- [x] Alla bilder har alt-text
+- [x] Formulär med korrekt kopplade etiketter
 - [ ] Koden validerar utan fel
 
 ## CSS
-- [ ] Layouten byggd med Flexbox och/eller Grid
-- [ ] CSS-variabelsystem i `css/variables.css`
-- [ ] Filerna uppdelade och konsekvent namngivna
-- [ ] `box-sizing: border-box` globalt
+- [x] Layouten byggd med Flexbox och/eller Grid
+- [x] CSS-variabelsystem i `css/variables.css`
+- [x] Filerna uppdelade och konsekvent namngivna
+- [x] `box-sizing: border-box` globalt
 
 ## Responsivitet
-- [ ] Fungerar i minst tre brytpunkter (mobil, mellan, desktop)
-- [ ] Byggd mobile first
+- [x] Fungerar i minst tre brytpunkter (mobil, mellan, desktop)
+- [x] Byggd mobile first
 - [ ] Testad i DevTools enhetsläge
 
 ## Utseende
-- [ ] Typografi, färger och spacing är konsekventa
-- [ ] Kontrasten uppfyller kraven från dag 4
-- [ ] Hover och fokus finns implementerat
+- [x] Typografi, färger och spacing är konsekventa
+- [x] Kontrasten uppfyller kraven från dag 4
+- [x] Hover och fokus finns implementerat
 
 ## Versionshantering
 - [ ] Regelbundna commits med begripliga meddelanden
